@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jindi
 - 👀 I’m interested in basketball, swimming, programming ...
+- 💻 I'm currently working @Singpore Govtech
 - 📫 Can reach me @hujindi1212@gmail.com
 
 <!---
